@@ -1,4 +1,4 @@
-# Welcome to your BidCraft project
+# Welcome to our BidCraft project
 
 ## Project info
 
